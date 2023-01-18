@@ -1,1 +1,36 @@
-# Paste the output from a sample run here.
+Hello, please provide 3 temperatures
+
+Please enter a temperature in degrees F: 74
+Please enter second temperature in degrees F: 112.326741
+Please provide third temperature in degrees F: 10.14987
+
+<class 'float'>
+<class 'float'>
+<class 'float'>
+
+Are each data types confirmed to be float?
+Enter yes or no: y
+
+Thank you for the responses!
+
+Here is the sum of your temperatures
+196.48
+
+Next is the average of your selected temperatures
+65.49
+
+Here is the product of the temperatures entered
+84367.53
+
+This is the smallest temperature in the group
+10.15
+
+This is the largest temperature in the group
+112.33
+
+
+This portion of the program will let you know if an entered body temperature requires medical attention or not.
+Let's assume you are not sick and have been exposed to extreme cold, or exteme heat.
+Enter a temperature between 91-108 F: 95
+
+This is a dangerously low body temperature, you may have hypothermia, seek medical attention if you cannot warm up
