@@ -1,0 +1,14 @@
+Hello, I'm Martin, your gamebot.
+Let's play an animal guessing game!
+There are 3 animals: wolf, eagle, snake (a Python of course).
+The wolf scares the eagle.
+The eagle grabs the snake.
+The snake bites the wolf.
+I'll pick one and you pick one and we'll see who wins.
+
+wolf, eagle, snake: eagle
+
+You said eagle.
+I said eagle.
+
+We tied!
